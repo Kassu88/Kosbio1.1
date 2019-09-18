@@ -1,0 +1,146 @@
+body {
+
+background:#039be5;
+text-align: center;
+}
+#main {
+width: 1600px;
+height;900px;
+background: ; 
+margin:29px auto;
+align-content: center;
+
+}
+#main_wrapper_top {
+    width:1600px;
+    height: 900px;
+}
+
+
+i mg {
+    float:left;
+    margin-left: 40px;
+    border: solid 10px white;
+}
+
+
+im g {
+    
+   float: right;
+    margin-right: 30px;
+     border: solid 10px white;
+}
+#over {
+  position:absolute;
+  width:100%;
+  height:100%;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+#logo
+{ width: 120px;
+  position: left;
+  height: 220px;}
+
+
+
+.navigaatio{
+    width: 100%;
+    height: 40px;
+    background: ;
+    margin:0;
+    padding:0;   
+    background-color:#00c853;
+    clear:both;
+}
+ 
+
+
+
+.navigaatio ul li {
+    
+    list-style: none;
+}
+
+
+.navigaatio ul li a {
+    
+    text-decoration:none;
+    float: left;
+    display: block;
+    padding: 10px 10px;
+}
+
+
+
+li a:hover {
+    background-color: mediumpurple;
+    color: white;
+}
+    
+
+h1 {
+    text-align: center;
+    font-family: Times New Roman;
+    font:23pt;
+}
+
+
+
+p {
+    font-family: "Courier New",serif;
+    font:21pt;
+    padding: 0;
+    margin: 0;
+}
+.clearfix {clear:both;}
+
+
+.tuote_wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+    #tuote1 {
+    float: left;
+    width: 31%;
+	padding-top:13px;
+    padding-bottom: 2px;
+    padding-right: 2%;
+  
+        
+}
+
+    #tuote2 {
+    float: left;
+    width: 31%;
+	padding-top:13px;
+    padding-bottom: 20px;
+    padding-right: 2%;
+  
+}
+    #tuote3 {
+    float: left;
+    width: 31%;
+	padding-top:13px;
+    padding-bottom: 20px;
+      
+}
+
+  #tuote4 {
+    float: left;
+    width: 31%;
+    padding-bottom: 20px;
+    
+}
+
